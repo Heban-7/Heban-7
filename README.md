@@ -16,8 +16,7 @@ I'm an AI/ML Engineer and Data Scientist with a Biomedical Engineering backgroun
 
 **AI Engineer Intern | Kifiya Financial Technology PLC**  
 *Feb 2025 - Present*  
-- Developed and optimized ML models for real-world applications.
-- Worked on deep learning, Computer Vision and LLM
+- AI Engineer Intern with experience in ML, Computer Vision, LLM and hands-on experience in real-world applications
 
 **Biomedical Engineer Intern | Gilando Biomedical Solutions**  
 *Oct 2024 – Feb 2025*
