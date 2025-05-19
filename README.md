@@ -14,8 +14,11 @@ I'm an AI/ML Engineer and Data Scientist with a Biomedical Engineering backgroun
 
 ## 💼 Experience
 
+**AI Engineer | Amplitude Venture AS**  
+*Feb 2025 - April 2025*  
+
 **AI Engineer Intern | Kifiya Financial Technology PLC**  
-*Feb 2025 - Present*  
+*Feb 2025 - April 2025*  
 - AI Engineer Intern with experience in ML, Computer Vision, LLM and hands-on experience in real-world applications
 
 **Biomedical Engineer Intern | Gilando Biomedical Solutions**  
