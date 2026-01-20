@@ -14,8 +14,11 @@ I'm an AI/ML Engineer and Data Scientist with a Biomedical Engineering backgroun
 
 ## 💼 Experience
 
+**Data Scientist | Elunic AG**  
+*Jul 2025 - Present*
+
 **AI Engineer | Amplitude Venture AS**  
-*May 2025 - Present*
+*May 2025 - Oct 2025*
 - AI/ML engineer
 
 **AI Engineer Intern | Kifiya Financial Technology PLC**  
