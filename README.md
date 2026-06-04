@@ -1,12 +1,12 @@
 # Hi there, I'm Liul J. Teshome! 👋
 
-I'm an AI/ML Engineer and Data Scientist with a Biomedical Engineering background.
+I'm an AI/ML Engineer and Data Scientist 
 
 ---
 
 ## 🔍 About Me
 
-- **Expertise:** AI/ML, Data Science and Biomedical Engineering
+- **Expertise:** AI/ML, Data Science
 - **Interests:** Artificial Neural Networks, Generative AI, Medical Innovations, Quantum Mechanics  
 - **Philosophy:** Bridging technology with practical applications to drive transformative change.
 
@@ -24,11 +24,6 @@ I'm an AI/ML Engineer and Data Scientist with a Biomedical Engineering backgroun
 **AI Engineer Intern | Kifiya Financial Technology PLC**  
 *Feb 2025 - April 2025*  
 - AI Engineer Intern with experience in ML, Computer Vision, LLM and hands-on experience in real-world applications
-
-**Biomedical Engineer Intern | Gilando Biomedical Solutions**  
-*Oct 2024 – Feb 2025*
-- Gained hands-on experience in medical equipment installation and maintenance.
-
 ---
 
 ## 📚 Education
@@ -39,7 +34,7 @@ I'm an AI/ML Engineer and Data Scientist with a Biomedical Engineering backgroun
 - Completed 11 real-world projects
 
 **Addis Ababa University (2021 – 2025)**  
-*Biomedical Engineering*
+*Bachelor of Engineering*
 
 ---
 
