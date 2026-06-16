@@ -1,6 +1,6 @@
 # Hi there, I'm Liul J. Teshome! 👋
 
-I'm an AI/ML Engineer and Data Scientist 
+AI/ML Engineer and Data Scientist 
 
 ---
 
@@ -34,7 +34,7 @@ I'm an AI/ML Engineer and Data Scientist
 - Completed 11 real-world projects
 
 **Addis Ababa University (2021 – 2025)**  
-*Bachelor of Engineering*
+*Bachelor of Science*
 
 ---
 
